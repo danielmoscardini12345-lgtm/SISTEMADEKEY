@@ -1,8 +1,8 @@
 {
   "keys": {
-    "exemplo1": {
-      "enabled": false,
-      "duration": "1h",
+    "owner-spark": {
+      "enabled": true,
+      "duration": "perm",
       "device_limit": 1
     },
 
