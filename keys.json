@@ -16,6 +16,12 @@
       "enabled": false,
       "duration": "7d",
       "device_limit": 5
+    },
+
+    "oii": {
+      "enabled": true,
+      "duration": "7d",
+      "device_limit": 3
     }
   }
 }
