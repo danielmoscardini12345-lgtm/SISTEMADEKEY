@@ -19,7 +19,7 @@
     },
 
     "oii": {
-      "enabled": true,
+      "enabled": false,
       "duration": "7d",
       "device_limit": 3
     }
