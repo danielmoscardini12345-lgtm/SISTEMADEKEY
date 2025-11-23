@@ -3,7 +3,7 @@
     "owner-spark": {
       "enabled": true,
       "duration": "perm",
-      "device_limit": 1,
+      "device_limit": 1
     },
 
     "exemplo2": {
