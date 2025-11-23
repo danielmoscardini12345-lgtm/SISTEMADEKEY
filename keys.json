@@ -7,7 +7,7 @@
     },
 
     "exemplo2": {
-      "enabled": false,
+      "enabled": true,
       "duration": "24h",
       "device_limit": 2
     },
